@@ -12,7 +12,7 @@ This is a solution to the [Conference ticket generator challenge on Frontend Men
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-
+  - [Author](#author)
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
@@ -127,3 +127,10 @@ function checkGithubUser(input) {
 ### Useful resources
 
 - [deepseek](https://chat.deepseek.com)
+
+## Author
+
+
+- Frontend Mentor - [@Ouail-Goumidi](https://www.frontendmentor.io/profile/Ouail-Goumidi)
+- Linkedin - [@wail-goumidi]([https://www.twitter.com/yourusername](https://www.linkedin.com/in/wail-goumidi-7992212b1/))
+
