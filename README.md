@@ -41,7 +41,7 @@ Users should be able to:
 !["Home Page Mobile"](./screenshot/Screenshot_Responsive_Home_page.png)
 !["Invalid Form"](./screenshot/Screenshot_invalide_fields.png)
 !["Ticket Generator Page"](./screenshot/Screenshot_ticket_generator.png)
-!["Ticket Generator Page Responsive"](./screenshot/Screenshot_ticket_generator.png)
+!["Ticket Generator Page Responsive"](./screenshot/Screenshot_ticket_generator_Responsive.png)
 
 ### Links
 
