@@ -43,8 +43,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Ouail-Goumidi/Conference-ticket-generator.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Ouail-Goumidi/Conference-ticket-generator.git
+- Live Site URL: https://conference-ticket-generator-nu.vercel.app/
 
 ## My process
 
