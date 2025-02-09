@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Ouail-Goumidi/Conference-ticket-generator.git
-- Live Site URL: https://conference-ticket-generator-nu.vercel.app/
+- Live Site URL: https://conference-ticket-generator-nu.vercel.app
 
 ## My process
 
@@ -132,5 +132,5 @@ function checkGithubUser(input) {
 
 
 - Frontend Mentor - [@Ouail-Goumidi](https://www.frontendmentor.io/profile/Ouail-Goumidi)
-- Linkedin - [@wail-goumidi]([https://www.twitter.com/yourusername](https://www.linkedin.com/in/wail-goumidi-7992212b1/))
+- Linkedin - [@wail-goumidi](https://www.linkedin.com/in/wail-goumidi-7992212b1/)
 
