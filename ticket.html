@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ticket Generator</title>
+    <!-- css -->
+    <link rel="stylesheet" href="/css/normalization.css" />
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/ticket.css">
+    <!-- FontAwesome -->
+    <script
+      src="https://kit.fontawesome.com/d4dd70552b.js"
+      crossorigin="anonymous"
+    ></script>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="shapes">
+      <img draggable="false" src="/imgs/pattern-lines.svg" alt="" />
+      <img draggable="false" src="/imgs/pattern-circle.svg" alt="" />
+      <img draggable="false" src="/imgs/pattern-circle.svg" alt="" />
+      <img draggable="false" src="/imgs/pattern-squiggly-line-top.svg" alt="" />
+    </div>
+    <picture>
+      <source
+        srcset="/imgs/pattern-squiggly-line-bottom-desktop.svg"
+        media="(min-width : 769px)"
+      />
+      <source
+        srcset="/imgs/pattern-squiggly-line-bottom-mobile-tablet.svg"
+        media="(max-width: 768px)"
+      />
+      <img class="unselectable" draggable="false" src="" alt="RESPONSIVE SVG" />
+    </picture>
+    <main>
+      <div class="container">
+        <header>
+          <div class="logo">
+            <img src="/imgs/logo-full.svg" alt="">   
+          </div>
+
+          <div class="txt">
+      
+          </div>
+        </header>
+
+
+        <div class="ticket">
+            <img class="background-img" src="/imgs/pattern-ticket.svg" alt="">
+            <div class="section-one">
+                <div class="coding-conf">
+                    <img src="/imgs/logo-mark.svg" alt="">
+                    <h1>Coding Conf</h1>
+                </div>
+
+                <div class="txt">
+                    <span>Jan 31,2025 / Austrin, Tx </span>
+                </div>
+            </div>
+            <div class="section-two">
+                <img class="avatar" src="" alt="">
+                <div class="txt">
+                    <span class="full-name"></span>
+                    <span class="github">
+                        <img src="/imgs/icon-github.svg" alt="">
+                        <span class="github-username">@Ouail-Goumidi</span>
+                    </span>
+                </div>
+            </div>
+            <span class="ticket-id"></span>
+        </div>
+
+
+
+      </div>
+    </main>
+
+    <script src="/js/ticket.js"></script>
+  </body>
+</html>
