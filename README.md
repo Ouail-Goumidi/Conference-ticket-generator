@@ -39,10 +39,9 @@ Users should be able to:
 
 !["Home Page"](./screenshot/Screenshot%20_Home_page.png)
 !["Invalid Form"](./screenshot_invalide_fields.png)
-!["Ticket Generator Page"](./screenshot/Screenshot_ticket_generator.png)
-
+!["Ticket Generator Page"](./screenshot/Screenshot_invalide_fields.png)
 !["Home Page Responsive"](./screenshot/Screenshot_Responsive_Home_page.png)
-!["Invalid Form Responsive"](./screenshot_invalide_fields_Responsive.png)
+!["Invalid Form Responsive"](./screenshot/Screenshot_invalide_fields_Responsive.png)
 !["Ticket Generator Page Responsive"](./screenshot/Screenshot_ticket_generator_Responsive.png)
 
 ### Links
